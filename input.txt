@@ -1,0 +1,4 @@
+     FW678 ||             asd asds ||  45.000000 ||       active ||    mandatory
+     FW980 ||                po wi ||  67.000000 ||    in-active ||     optional
+     FW985 ||                po wi ||  67.000000 ||    in-active ||     optional
+     FW982 ||                po wi ||  67.000000 ||    in-active ||     optional
